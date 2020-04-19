@@ -1,5 +1,5 @@
 <h3>Give Me Advice! app with React</h3>
-<a href="https://givemeadviceapp.netlify.app">Go to the App</a>
+<a href="https://givemeadviceapp.netlify.app">Go to the App givemeadviceapp.netlify.app</a>
 
 
 This is an application that gives you random funny advices under the beautiful Liverpool view. <br />
